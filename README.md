@@ -35,8 +35,6 @@ This website is hosted using firebase hosting in the following url : https://net
 
 ### Environment Variables
 
-|                   |              |                                                           |
 | Key               | Value        | Description                                               |
 |-------------------|--------------|-----------------------------------------------------------|
 | REACT_APP_API_KEY | YOUR_API_KEY | Get your api key from https://developers.themoviedb/org/3 |
-|                   |              |                                                           |
