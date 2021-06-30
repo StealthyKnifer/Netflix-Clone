@@ -17,6 +17,7 @@
 
 ## Table of Contents
 * [Overview](#overview)
+* [Installation and Configuration](#installation-and-configuration)
 
 
 ## Overview
