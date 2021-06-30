@@ -23,7 +23,7 @@
 This app is a frontend-only netflix clone. The goal of this website is to copy the layout and animations of the
 official netflix website using ReactJS. 
 
-This website is hosted using firebase hosting in the following url : https://netflix-clone-c57b3.web.app/
+You can checkout the live version of this app on `https://netflix-clone-c57b3.web.app/`
 
 
 ## Installation and Configuration
