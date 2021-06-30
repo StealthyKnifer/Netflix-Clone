@@ -1,8 +1,8 @@
-A netflix-clone made using React. This is only the front-end part of netflix and has no backend part whatsover.
-
-To run this app on your PC, you have to install Node and run the following commands in your terminal in the project folder:-
-### npm i ###
-### npm start ###
-
-This app has been deployed with firebase.
-You can check this out here :- https://netflix-clone-c57b3.web.app
+[contributors-shield]: https://img.shields.io/github/contributors/jdmedlock/chs73.svg?style=for-the-badge
+[contributors-url]: https://github.com/jdmedlock/chs73/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jdmedlock/chs73.svg?style=for-the-badge
+[forks-url]: https://github.com/jdmedlock/chs73/network/members
+[stars-shield]: https://img.shields.io/github/stars/jdmedlock/chs73.svg?style=for-the-badge
+[stars-url]: https://github.com/jdmedlock/chs73/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jdmedlock/chs73.svg?style=for-the-badge
+[issues-url]: https://github.com/jdmedlock/chs73/issues
