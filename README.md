@@ -31,7 +31,7 @@ You can checkout the live version of this app on `https://netflix-clone-c57b3.we
 
 1. Clone or fork this repo using git.
 2. `npm install`
-3. Create a .env in the root folder and add the mentioned environment variables.
+3. Create a file named `.env` without any extensions in the root folder and add the mentioned environment variables.
 4. To run the app locally use `npm start`
 5. This will open a new browser window automatically. If not navigate to the url `http://localhost:3000` assuming the default port number has not been changed.
 
