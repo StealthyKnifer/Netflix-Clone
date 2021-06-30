@@ -16,5 +16,5 @@
 [![Issues][issues-shield]][issues-url]
 
 ## Table of Contents
-*[Overview][#overview]
+*[Overview](#overview)
 
