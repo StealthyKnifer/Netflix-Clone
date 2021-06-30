@@ -21,11 +21,15 @@ const Row = (props) => {
 
             <div className="row__posters">
                 {movies.map((movie) => {
+                    if(!movie.backdrop_path){
+                        return 1
+                    }
                     return (
+                        
                         <img
                             key={movie.id}
-                            className={`row__poster ${props.isLargeRow && "row__posterLarge"}`}
-                            src={`${baseUrl}${props.isLargeRow ? movie.backdrop_path: movie.backdrop_path}`}
+                            className={`row__poster ${props.isLargeRow ? "row__posterLarge": ""}`}
+                            src={`${baseUrl}${movie.backdrop_path}`}
                             alt={movie.name}
                         />
                     );
