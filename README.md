@@ -17,7 +17,9 @@
 
 ## Table of Contents
 * [Overview](#overview)
-* [Installation and Configuration](#installation-and-configuration)
+* [Libraries Used](#libraries-used)
+* [Installation and Configuration](#installation)
+* [Preview](#preview)
 
 
 ## Overview
@@ -26,8 +28,14 @@ official netflix website using ReactJS.
 
 You can checkout the live version of this app on `https://netflix-clone-c57b3.web.app/`
 
+## Libraries Used
 
-## Installation and Configuration
+- ReactJS
+- Axios
+
+## Installation
+
+**To run this app locally on your device follow the following steps :**
 
 1. Clone or fork this repo using git.
 2. `npm install`
@@ -40,3 +48,7 @@ You can checkout the live version of this app on `https://netflix-clone-c57b3.we
 | Key               | Value        | Description                                               |
 |-------------------|--------------|-----------------------------------------------------------|
 | REACT_APP_API_KEY | YOUR_API_KEY | Get your api key from https://developers.themoviedb/org/3 |
+
+## Preview
+
+![Snapshot GIF](https://recordit.co/6T761Fs3pK)
