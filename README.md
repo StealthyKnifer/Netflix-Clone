@@ -51,4 +51,4 @@ You can checkout the live version of this app on `https://netflix-clone-c57b3.we
 
 ## Preview
 
-![Snapshot GIF](https://recordit.co/6T761Fs3pK)
+![Snapshot GIF](https://recordit.co/6T761Fs3pK.gif)
